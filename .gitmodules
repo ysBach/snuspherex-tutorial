@@ -1,0 +1,3 @@
+[submodule "Public-products"]
+	path = Public-products
+	url = https://github.com/SPHEREx/Public-products
